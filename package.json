@@ -1,0 +1,15 @@
+{
+  "name": "react-barkwire",
+  "version": "1.0.0",
+  "description": "react-barkwire",
+  "main": "README.md",
+  "scripts": {
+    "start": "reveal-md --theme night --highlightTheme hybrid --port 1337 --css styles.css README.md"
+  },
+  "keywords": [],
+  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^2.1.1"
+  }
+}

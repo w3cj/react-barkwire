@@ -1,0 +1,39 @@
+.vue-logo {
+  height: 120px !important;
+  width: auto !important;
+  margin-bottom: -5px !important;
+}
+
+.vue-logo-small {
+  height: 40px !important;
+  width: auto !important;
+  margin-bottom: -5px !important;
+}
+
+
+img {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  width: auto !important;
+}
+
+.emoji {
+  font-size: 1.5em;
+}
+
+.dark-bg {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+small {
+  font-size: 0.5em !important;
+}
+
+.mt {
+  margin-top: 1em !important;
+}
+
+.van-video {
+  width: 30%;
+}
