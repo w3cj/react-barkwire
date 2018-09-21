@@ -4,7 +4,7 @@
   "description": "react-barkwire",
   "main": "README.md",
   "scripts": {
-    "start": "reveal-md --theme night --highlightTheme hybrid --port 1337 --css styles.css README.md"
+    "start": "reveal-md --theme night --highlightTheme hybrid --port 1337 --css styles.css SLIDES.md"
   },
   "keywords": [],
   "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
